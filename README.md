@@ -8,8 +8,6 @@ The Field Guide to Data Science
 -	Algorithms and techniques that you love  
 -	Your thoughts and comments on other people’s additions  
 
-Everyone you will ever meet knows something you don't.
-
 ---
 Email us your ideas and perspectives at data_science@bah.com or submit them via a pull request on the [Github repository](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science).
 
