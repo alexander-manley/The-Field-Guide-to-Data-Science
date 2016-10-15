@@ -19,6 +19,7 @@ Tell us and the world what you know. Become an author of this story.
 #### [Life in the Trenches - Lessons Learned](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/tree/master/LifeInTheTrenches-LessonsLearned)
 In the original content, we picked a few topics of interest to us and gave examples. Feel free to add an example to an already mentioned topic or begin a new topic. 
 
+
 #### [Building Blocks](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/tree/master/BuildingBlocks-References2LearnFrom) - References to Learn From
 We all have to start somewhere and where is better than with source from someone/somewhere that is doing great things? 
 ##### [Journal Articles](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/tree/master/BuildingBlocks-References2LearnFrom/JournalPapers)
