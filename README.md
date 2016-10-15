@@ -5,7 +5,7 @@ The Field Guide to Data Science
 
 ---
 Email us your ideas and perspectives at data_science@bah.com or submit them via a pull request on the [Github repository](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science).
-
+---
 
 Tell us and the world what you know. Become an author of this story.
 ## Places to Contribute
