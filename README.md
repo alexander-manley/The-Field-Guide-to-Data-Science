@@ -28,8 +28,10 @@ Have you taken an online tutorial that you think is worth while?
 ##### [Favorite Software](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/tree/master/BuildingBlocks-References2LearnFrom/Software)
 Do you have a favorite library or open source software package that you couldn't live without?!?! Let's hear it.
 
+
 #### Hyperlinks
 Please note that we cannot possibly police all hyperlinks put on here, but we will do our best. If you find a link that is bad or broken, please file an issue immediately.
+ 
  
 ##How to Contribute
 - Pull requests
